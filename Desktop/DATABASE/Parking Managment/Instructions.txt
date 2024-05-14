@@ -1,0 +1,12 @@
+Svi queries koje sam koristio da napravim 
+bazu su u "Queries" folderu. Ako ce iko praviti 
+bazu od pocetka a hoce da koristi ove queries 
+neka ih execute-a u redosljedu koji na slici 
+"Redosljed Izvrsavanja (Sa vrha ka dnu)" i ne bi 
+trebalo biti problema.
+
+Ako neko zeli da importuje bazu na svoj kompjuter 
+neka ide u SSMS, rightlick na "Databases" i onda 
+"Import Data-tier Application" i onda odabere ovaj file 
+"ParkingManagementDBWithData.bacpac" i trebalo bi proci 
+bez problema. Ta baza ima sve podatke koje sam unio u tabele.
